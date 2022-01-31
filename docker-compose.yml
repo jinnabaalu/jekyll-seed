@@ -1,0 +1,10 @@
+version: '3'
+services:
+  site:
+    container_name: jekyll-seed
+    command: jekyll serve --watch
+    image: jekyll/jekyll:4.0
+    volumes:
+      - $PWD:/srv/jekyll
+    ports:
+      - 4000:4000

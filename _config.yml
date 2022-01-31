@@ -1,0 +1,51 @@
+title: Jinna Balu
+email: jinna.balu@outlook.com
+description: >- 
+  Devops Manager at Wisestep
+baseurl: ""
+url: "https://jinnabalu.com"
+twitter_username: JinnaBalu
+github_username:  JinnaBalu
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: true
+  startings: [html, head, body]
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Google Tag Manager Integration
+google-tag-manager-id: GTM-MTFQ8TF
+
+# SEO 
+logo: ""
+social:
+  name: Jinna Balu
+  links:
+    - https://twitter.com/JinnaBalu
+    - https://www.facebook.com/jinna.balu
+    - https://www.linkedin.com/in/jinna-balu-20368995/
+    - https://github.com/JinnaBalu
+    - https://jinnabalu.medium.com/
+    - https://jinnabalu.com/
+
+## Verify ownership with several services at once using the following format
+webmaster_verifications:
+  google: xVEmwX6PFrFabJWC30aDEuvWSbnr11QegyS-B9UbDB8
+  bing: 1E642F36EC0479DC69135F989CDC274A
+  yandex: 43039f2f4b41e2c3
+  baidu: 1234
+  facebook: 1234
+  ahrefs: 51bddb95e8fc130687b6ef65736ca7afb4c52168083b13a5e11eb5f1f2a536d7
+
+  
