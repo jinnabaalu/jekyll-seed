@@ -4,6 +4,7 @@
 
 - [Sitemap Generator Plugin](https://github.com/jekyll/jekyll-sitemap)
 - [Enable Compression](http://jch.penibelst.de/), used default
+- [Jekyll RSS Feed]
 - Installing Jekyll SEO Tags
     - Page title, with site title or description appended
     - Page description
@@ -27,4 +28,5 @@
 - SEO Tools to Instantly Improve Your Marketing
     - [Page Speed](https://pagespeed.web.dev/?utm_source=psi&utm_medium=redirect)
     - [ahrefs](https://app.ahrefs.com/onboarding)
+    - [Answer the Public](https://answerthepublic.com/), Hundreds of keyword ideas based on a single keyword
     - 

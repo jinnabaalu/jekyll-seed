@@ -23,10 +23,11 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-feed
 
 # Google Tag Manager Integration
 google-tag-manager-id: GTM-MTFQ8TF
-
+google-analytics-id: G-E0ZW5NRN6K
 # SEO 
 logo: ""
 social:
